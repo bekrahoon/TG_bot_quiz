@@ -85,10 +85,7 @@ python bot.py
 - python-telegram-bot
 - python-dotenv
 
-## 📝 Лицензия
-
-MIT License
 
 ## 👨‍💻 Автор
 
-Ваше имя
+Умуржанов Аба Бекрахун
